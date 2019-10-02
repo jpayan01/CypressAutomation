@@ -1,5 +1,11 @@
 {
-  "name": "Using fixtures to represent data",
-  "email": "hello@cypress.io",
-  "body": "Fixtures are a great way to mock data for responses to routes"
+  "joel": "jpayan@contractroom.com",
+  "joelPassword": "AgreeMore01",
+  "rfController": "rfcontroller@rf.com",
+  "password": "R@inforest1234",
+  "rfCounterParty": "rf_counterparty@rf.com",
+  "rfApprover": "rf_approval@rf.com",
+  "rfQueueAdmin": "rf_queue_admin@rf.com",
+  "rfWueueManager": "rf_queue_manager@rf.com",
+  "rfViewer": "rf_viewer@rf.com"
 }
