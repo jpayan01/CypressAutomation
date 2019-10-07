@@ -2,17 +2,17 @@ class LoginPage
 {
 
     //methods go here!
-    getUsername()
+    enterUsername()
     {
         return cy.get("input[id='id_username']")
     }
 
-    getPassword()
+    enterPassword()
     {
         return cy.get("input[id='id_password']")            
     }
 
-    getLoginButton()
+    clickLoginButton()
     {
         return cy.get("input[value='Login']")
     }

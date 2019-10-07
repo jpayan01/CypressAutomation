@@ -1,11 +1,13 @@
 {
   "joel": "jpayan@contractroom.com",
   "joelPassword": "AgreeMore01",
-  "rfController": "rfcontroller@rf.com",
+  "rfcontroller": "rfcontroller@rf.com",
   "password": "R@inforest1234",
-  "rfCounterParty": "rf_counterparty@rf.com",
-  "rfApprover": "rf_approval@rf.com",
+  "rfcounterparty": "rf_counterparty@rf.com",
+  "rfapprover": "rf_approval@rf.com",
   "rfQueueAdmin": "rf_queue_admin@rf.com",
-  "rfWueueManager": "rf_queue_manager@rf.com",
-  "rfViewer": "rf_viewer@rf.com"
+  "rfQueueManager": "rf_queue_manager@rf.com",
+  "rfviewer": "rf_viewer@rf.com", 
+  "TSTDocument": "TST - Document ",
+  "TSTRequest": "TST - Request "
 }

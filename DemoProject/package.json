@@ -9,6 +9,7 @@
   "author": "Joel Payan",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^3.4.1"
+    "cypress": "^3.4.1",
+    "cypress-file-upload": "^3.3.4"
   }
 }
