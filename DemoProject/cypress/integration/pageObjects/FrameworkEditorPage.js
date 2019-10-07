@@ -9,7 +9,7 @@ class FrameworkEditorPage
 
     clickHighlightSection()
     {
-        return cy.get('a.btn-light-blue')
+        return cy.get('a.btn-light-blue');
     }
 }
 
